@@ -9,7 +9,7 @@ SASS| REDUX TOOLKİT | REACT-REDUX | REACT-ROUTER-DOM | REACT-TOASTİFY | JSON-S
 
 # Projeyi Çalıştırmak için Adımlar
 	1.	Projeyi Klonlayın:
-git clone [projenin-GitHub-linki]
+git clone [https://github.com/nevaldurmaz/Job-App-.git]
 cd [proje-dizini]
 2.	Gerekli Bağımlılıkları Yükleyin:
 npm install
